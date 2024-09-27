@@ -13,7 +13,6 @@
 "
 <video width="600" controls>
   <source src="https://github.com/0joseDark/recorderscreen-mp4/raw/main/videos/janela-3.mp4" type="video/mp4">
-  Seu navegador não suporta a reprodução de vídeos.
 </video>
 
 
