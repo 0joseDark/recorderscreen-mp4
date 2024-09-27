@@ -7,3 +7,6 @@
 # pip install pyautogui
 # pip install tk
 
+![Texto alternativo](caminho-da-imagem)
+
+
