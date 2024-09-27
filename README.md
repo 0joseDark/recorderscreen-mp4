@@ -12,7 +12,7 @@
 https://github.com/0joseDark/recorderscreen-mp4/blob/main/videos/janela-3.mp4
 
 <video width="600" controls>
-  <source src="https://github.com/0joseDark/recorderscreen-mp4/blob/main/videos/janela-3.mp4">
+  <source src="./videos/janela-3.mp4">
   Seu navegador não suporta a reprodução de vídeos.
 </video>
 
