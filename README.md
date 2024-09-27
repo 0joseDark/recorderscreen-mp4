@@ -11,3 +11,5 @@
 "
 [Assista ao vídeo](https://www.youtube.com/watch?v=tlQJSDB8gJM)
 "
+Você pode [assistir ao vídeo aqui](https://github.com/0joseDark/recorderscreen-mp4/raw/main/videos/janela-3.mp4).
+
