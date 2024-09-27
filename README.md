@@ -7,6 +7,6 @@
 # pip install pyautogui
 # pip install tk
 
-![Texto alternativo](caminho-da-imagem)
+![Texto alternativo](https://github.com/0joseDark/recorderscreen-mp4/blob/main/images/janela.jpg)
 
 
